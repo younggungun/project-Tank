@@ -44,5 +44,6 @@ public class Bullet {
             default:
                 break;
         }
+        System.out.println("ababababab");
     }
 }
